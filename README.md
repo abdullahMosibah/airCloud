@@ -1,12 +1,4 @@
-﻿![3Color Logo.JPG](Aspose.Words.019038c5-fc72-44c6-b134-16f8a8c695fc.001.jpeg)
-
-**University of Bahrain**
-
-**College of Information Technology**
-
-**Department of Computer Science** 
-
-**Airline System “AirCloud”-Phase 1**
+![3Color Logo.JPG](Aspose.Words.019038c5-fc72-44c6-b134-16f8a8c695fc.001.jpeg)
 
 **Prepared by**
 
@@ -14,18 +6,15 @@
 
 **Alnowier Khalid Abdulla			20177132**
 
-`          `**Sara Khalid Buchery			 20182566**
+**Sara Khalid Buchery			 20182566**
 
-` `**Jinnat Akter				          20188776**
+**Jinnat Akter				   20188776**
 
-`                   `**Abdullah Mohammed Mosaibah 	 20189150**
+**Abdullah Mohammed Mosaibah 	 20189150**
+
+**For ITCS 497- sec 01**
 
 
-
-
-**For**
-
-**ITCS 497- sec 01**
 
 **Academic Year 2021-2022-Semester 2**
 
@@ -68,7 +57,7 @@ Travelocity has a “filter by” function, which is included in our system, it 
 
 # **Starting from What You Have: start from your 305 project**
 
-` `The purpose of this system is to provide airline tickets, which helps the customers to search the availability and prices of various airline tickets, along with the different packages available with the reservations. The system will mostly work as the other airline system with additional functions. The system is aiming to enhance the airline during covid-19. Due to the changes that happened during covid-19 that affected the whole world, for several of time a lot of the airlines were shut down from working, and during the time they started to open again people were afraid to go to the airport to finish their documents and their booking. so, we resolved for a better way to continue this system by creating a system for customers that can do everything they want from their home and only appear when it is the flight time. Our system is going to be helpful and will save a lot of effort and time, it is going to enhance the ways that customers want to arrange their flight, their booking and other. People from various parts of the world can register very easily. The new system is more personalized. It is made in such a manner that all the inexperienced users can understand all the options in it very easily. It is made in a quick and easy referential manner. This system helps the user to go through the rates quoted by different travel agencies and select the convenient rate that is suitable for him. In addition, access to all important matters is not always locked and can be opened easily at the time of urgency. The advantages of the proposed system are that security is maintained in the new system. Securities for all important data are maintained confidentially. As it is easily understandable and user friendly, quick entries can be made in this system.
+The purpose of this system is to provide airline tickets, which helps the customers to search the availability and prices of various airline tickets, along with the different packages available with the reservations. The system will mostly work as the other airline system with additional functions. The system is aiming to enhance the airline during covid-19. Due to the changes that happened during covid-19 that affected the whole world, for several of time a lot of the airlines were shut down from working, and during the time they started to open again people were afraid to go to the airport to finish their documents and their booking. so, we resolved for a better way to continue this system by creating a system for customers that can do everything they want from their home and only appear when it is the flight time. Our system is going to be helpful and will save a lot of effort and time, it is going to enhance the ways that customers want to arrange their flight, their booking and other. People from various parts of the world can register very easily. The new system is more personalized. It is made in such a manner that all the inexperienced users can understand all the options in it very easily. It is made in a quick and easy referential manner. This system helps the user to go through the rates quoted by different travel agencies and select the convenient rate that is suitable for him. In addition, access to all important matters is not always locked and can be opened easily at the time of urgency. The advantages of the proposed system are that security is maintained in the new system. Securities for all important data are maintained confidentially. As it is easily understandable and user friendly, quick entries can be made in this system.
 
 Mission statement: By integrating various systems into a single system, individuals will be able to use a single powerful system with a wide range of capabilities.
 
